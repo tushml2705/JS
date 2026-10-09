@@ -7,14 +7,28 @@
 // undefind =>  abhi value assign nhi hui hai 
 // symbol => to find uniqueness
 
-console.log(typeof "Tush")
-console.log(typeof 34)
-console.log(typeof 2.5)
-console.log(typeof true)
-console.log(typeof null)       // output : object
-console.log(typeof undefined) // output : undefined 
+// console.log(typeof "Tush")
+// console.log(typeof 34)
+// console.log(typeof 2.5)
+// console.log(typeof true)
+// console.log(typeof null)       // output : object
+// console.log(typeof undefined) // output : undefined 
 
 
 
-// .............
-// object 
+// .............non primitive
+// Array , object,function
+ //arry
+ const powerman = ['pw1','pw2','pw3'];
+//  console.log(powerman);
+
+ //object
+ let myObj={
+    name:"Tushar",
+    class:"M.A"
+ }
+
+ const myFunction=function(){
+    console.log("hello betu")
+ };
+ myFunction()
