@@ -32,3 +32,10 @@
     console.log("hello betu")
  };
  myFunction()
+
+
+
+
+//  ============================================================
+// stack memory (primitive ) ishme  value ki copy di jati hai ishliye main value m koi change nhi hota
+// heap memory (non-primitive) but ishme refrence value di jati hai ishliye ye main value m change ho jata hai 
