@@ -51,4 +51,4 @@ console.log(count); // output: 0   Yahan if ke andar ka count alag variable hai,
 
 
 
-// NOT USE var
+// NOT USE var2
